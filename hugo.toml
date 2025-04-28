@@ -1,7 +1,12 @@
 baseURL = 'https://ifeoma.dev/'
-languageCode = 'en-us'
 title = "ifeoma.dev"
 theme = "hugo-blog-awesome"
+
+# This is what goes in <html lang="">
+languageCode = 'en-us'
+
+# This defines how dates are formatted
+defaultContentLanguage = "en-us"
 
 # Enable emojis globally
 enableEmoji = true
